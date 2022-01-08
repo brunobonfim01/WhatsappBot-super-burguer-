@@ -1,0 +1,5 @@
+-- Boas vindas e apresentar o cardapio
+-- vendas
+-- exibir um resumo do pedido mpro cliente
+-- endereço de entrega
+-- encerramento
